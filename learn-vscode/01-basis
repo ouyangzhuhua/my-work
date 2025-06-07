@@ -1,0 +1,39 @@
+# keymap extendsion
+
+# theme extendsion
+
+# icon extendsion
+vscode-icons
+
+# text bigger or smaller
+cmd + 
+cmd -
+
+# settings
+auto-save
+cursor or cursor smooth
+
+# extendsion
+search for: java @pupular
+
+# find and search 
+cmd + f
+
+# search across multiple files
+cmd + p
+cmd + shift + f
+
+# multi cursor
+cmd + d
+cmd + shift + l
+option + click
+
+# workspace
+
+# builtin terminal
+
+# intellisense
+cmd + space
+
+
+
