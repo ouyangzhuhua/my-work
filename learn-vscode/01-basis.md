@@ -35,5 +35,21 @@ option + click
 # intellisense
 cmd + space
 
+# comment
+cmd + /
+
+# file formatting
+format document
+change tab display size
+
+python: black formatter
+
+# debugger
+
+# refactoring
+
+# code snippets
+create user snippets
+
 
 
