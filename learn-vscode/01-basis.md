@@ -1,8 +1,8 @@
-# keymap extendsion
+# keymap extension
 
-# theme extendsion
+# theme extension
 
-# icon extendsion
+# icon extension
 vscode-icons
 
 # text bigger or smaller
@@ -13,8 +13,8 @@ cmd -
 auto-save
 cursor or cursor smooth
 
-# extendsion
-search for: java @pupular
+# extension
+search for: java @popular
 
 # find and search 
 cmd + f
@@ -50,6 +50,38 @@ python: black formatter
 
 # code snippets
 create user snippets
+
+# peek and find references
+
+# general extension
+code spell checker
+code runner
+rest client
+live share
+
+# markdown
+snippets for markdown
+image or file copied to markdown
+markdown to PDF
+
+# json and yaml
+YAML extension by Read Hat
+
+# sql and sql client
+sqltools 
+
+# remote development
+remote development
+SSH config file
+
+remote docker
+Dev container: Add Dev container Configuration Files
+From 'Dockerfile'
+
+Dev container: Reopen in Container
+
+
+
 
 
 
